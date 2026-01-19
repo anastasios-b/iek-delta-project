@@ -1,0 +1,3 @@
+# Ignore python file
+# In this case we have just 1 file, so we ignore every file ending in .py
+*.py
